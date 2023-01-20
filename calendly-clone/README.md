@@ -5,20 +5,20 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+- Ruby version : ruby 3.1.3p185
 
-* System dependencies
+- Rails version : Rails 7.0.4
 
-* Configuration
+- System dependencies : N/A
 
-* Database creation
+- Configuration : Please install the gems before running the project
 
-* Database initialization
+- Database creation : rake db:migrate
 
-* How to run the test suite
+- How to run the test suite : bundle exec rspec path
 
-* Services (job queues, cache servers, search engines, etc.)
+- Services (job queues, cache servers, search engines, etc.) : N/A
 
-* Deployment instructions
+- Deployment instructions :N/A
 
-* ...
+- ...
